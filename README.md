@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HITMAN-001
-- 👀 I’m interested in ...Python/Java Automation, WebDevelopment, PySpark and Pandas, Oracle SQL/PLSQL and Mysql
-- 🌱 I’m currently learning ...Python Web Development, Data Engineering and AWS
-- 💞️ I’m looking to collaborate on ...Python Automation and Cloud Development
+- 👋 Hi, I’m Rohan
+- 👀 I’m interested in ...Some Core Software Engineering Challenges, Any kinds of Automation including AI based automation solutions.
+- 🌱 I’m currently learning ...Software Development to its core, Data Engineering and AWS
+- 💞️ I’m looking to collaborate on ...interesting Engineering challenges
 - 📫 How to reach me ...rohan92.pune@gmail.com
 
 <!---
